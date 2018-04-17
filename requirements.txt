@@ -1,0 +1,7 @@
+arrow
+jupyter
+logzero
+matplotlib
+numpy
+pandas
+seaborn
